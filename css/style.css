@@ -87,6 +87,7 @@ img {
   text-align: center;
   width: 70%;
   hight: 100hv;
+  transform: scale(1.2);
 }
 
 #big-text {
